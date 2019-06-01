@@ -36,6 +36,6 @@ The above mentioned New York City and Toronto datasets will be used in conjuncti
 
 Using the Places API Endpoints of Foursquare for different categories like Food, Arts & Entertainment and Nightlife Spot, we find the frequency of the venues of each of these categories and the similarities or differences in them for both the cities.
 
-### Food Venues by Neighborhood
+###### Food Venues by Neighborhood
 
 For example, by using the `explore` API endpoint along with the `categoryId` of the *Food* category we get the nearby venues of the provided location filtered by the *Food* category.
