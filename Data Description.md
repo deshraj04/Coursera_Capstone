@@ -1,6 +1,6 @@
 # Data Description
 
-This section describes the source of data for this project, as well as data cleansing and preparation for subsequent exploration.
+This section describes the data sourced for this project, as well as data cleansing and preparation for subsequent exploration.
 
 ## New York Location Dataset
 
@@ -31,4 +31,9 @@ The notebook for obtaining the New York City and Toronto data is available [here
 
 ## Places API of Foursquare
 
-The above mentioned New York City and Toronto datasets will be used in conjunction with the [Foursquare API](https://foursquare.com/) for this project. For example, using the Places API of the Foursquare API for different categories like Food, Arts & Entertainment and Nightlife Spot, we would be able to find the frequency of the venues of each of these categories and the similarities or differences in them for both the cities.
+The above mentioned New York City and Toronto datasets will be used in conjunction with the [Foursquare API](https://foursquare.com/) for this project. 
+
+Using the Places API Endpoints of Foursquare for different categories like Food, Arts & Entertainment and Nightlife Spot, we find the frequency of the venues of each of these categories and the similarities or differences in them for both the cities.
+
+For example, by using the `explore` API endpoint along with the `categoryId` of the *Food* category we get the nearby venues of the provided location filtered by the *Food* category.
+
