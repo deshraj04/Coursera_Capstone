@@ -14,5 +14,5 @@ While that is good a option to learn about a place, data driven information is a
 
 ## Tareget Audience
 
-The tareget audience of this project is tourists and also the people who want to decide between the New York City and Toronto based on Food, Nightlife and Arts & Entertainment venues.
+The tareget audience of this project is tourists and also the people who want to decide between the New York City and Toronto based on Food, Nightlife and Arts & Entertainment venues in the neighborhoods of the two cities.
 
