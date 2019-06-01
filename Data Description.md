@@ -48,4 +48,4 @@ Following is a sample of the data showing different *Food* venue categories near
 | 3  	| Parkwoods    	| 43.753259             	| -79.329656             	| High Street Fish & Chips 	| 43.745260      	| -79.324949      	| Fish & Chips Shop    	|
 | 4  	| Parkwoods    	| 43.753259             	| -79.329656             	| Pizza Pizza              	| 43.760231      	| -79.325666      	| Pizza Place          	|
 
-We can use the above dataset to create another dataset that shows the *frequency of food venue categories for each neighborhood* for further data analysis and exploration.
+We can use the above dataset to create another dataset that shows the *frequency of different food venue categories for each neighborhood* for further data analysis and exploration.
