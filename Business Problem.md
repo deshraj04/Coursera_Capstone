@@ -11,6 +11,11 @@ Both tourists and those who plan to move to another city often look for places o
 
 While that is good a option to learn about a place, data driven information is a better way to inform yourself and also is more reliable. Keeping in mind that individuals who wish to travel or move to New York City or Toronto are unsure of which is the better place from enjoyment perspective, this project compares three categories between the two cities. These categories include Arts & Entertainment, Food and Nightlife.
 
+Example of some of the questions the project seeks to answer:
+1. How frequent Japanese Restaurants are in the neighborhoods of Toronto as compared to New York City?
+2. If Museums play an important role in deciding which place to tour, then should you choose Toronto or New York City?
+3. If Art Gallaries are your favorite place to explore in your free time, then would it matter much if you choose to visit New York City rather than Toronto?
+
 
 ## Tareget Audience
 
