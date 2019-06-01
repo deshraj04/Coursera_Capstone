@@ -27,4 +27,4 @@ The [final CSV File](http://tiny.cc/gaan7y) will have the following features:
 
 The notebook for obtaining the New York City and Toronto data is available [here](http://tiny.cc/a39m7y).  
 
-The above mentioned datasets will be used in conjunction with the [Foursquare API](https://foursquare.com/) for this project. For example, using the Places API of the Foursquare API for different categories like Food, Arts & Entertainment and Nightlife Spot, we would be able to find the frequency of the venues of each of these categories and the similarities or differences in them for both the cities.
+The above mentioned New York City and Toronto datasets will be used in conjunction with the [Foursquare API](https://foursquare.com/) for this project. For example, using the Places API of the Foursquare API for different categories like Food, Arts & Entertainment and Nightlife Spot, we would be able to find the frequency of the venues of each of these categories and the similarities or differences in them for both the cities.
