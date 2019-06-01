@@ -38,7 +38,7 @@ Using the Places API Endpoints of Foursquare for different categories like Food,
 
 For example, by using the `explore` API endpoint along with the `categoryId` of the *Food* category we get the nearby venues of the provided location filtered by the *Food* venue category.
 
-Following is a sample of the data showing *Food Venues by Neighborhood*:
+Following is a sample of the data showing different *Food* venue categories nearby the *Parkwoods* neighborhood:
 
 |    	| Neighborhood 	| Neighborhood Latitude 	| Neighborhood Longitude 	| Venue                    	| Venue Latitude 	| Venue Longitude 	| Venue Category       	|
 |----	|--------------	|-----------------------	|------------------------	|--------------------------	|----------------	|-----------------	|----------------------	|
