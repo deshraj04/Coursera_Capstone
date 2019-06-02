@@ -1,5 +1,7 @@
 # Introduction
 
+## Objective
+
 This project seeks to identity the similarities or differences in Arts & Entertainment, Food and Nightlife between New York City and Toronto.
 
 
