@@ -21,11 +21,10 @@ The dataset of PostalCode, Borough and Neighborhood is scraped from [this](https
 The dataset is then cleaned and merged with the geospatial coordinates of each `PostalCode` by creating an inner join on `PostalCode`. The geospatial coordinates of each PostalCode of Toronto could be found [here](http://tiny.cc/od8m7y). 
 
 The [final CSV File](http://tiny.cc/ux1z7y) will have the following features:
-1. Postal Code
-2. Borough
-3. Neighborhood
-4. Latitude
-5. Longitude
+1. Borough
+2. Neighborhood
+3. Latitude
+4. Longitude
 
 The notebook for obtaining the New York City and Toronto data is available [here](http://tiny.cc/a39m7y).  
 
